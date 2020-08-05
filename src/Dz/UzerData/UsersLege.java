@@ -15,6 +15,7 @@ public class UsersLege {
             System.out.println(Arrays.toString(sasha));
 
             ois1.close();
+
         } catch (IOException | ClassNotFoundException e) {
             e.printStackTrace();
         }
