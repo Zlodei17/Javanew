@@ -1,10 +1,10 @@
-.idea/
+.idea
 *.txt
 .bin
 .admin
 .config
-src/
-out/
+src
+out
 dati.users
 gopa.txt
 gopa.top
